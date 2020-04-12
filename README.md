@@ -18,11 +18,11 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/emersonefm/bootcamp-goStack-desafio-03.svg">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/emersonefm/bootcamp-goStack-desafio-03.svg">
-  <a href="https://github.com/emersonefm/bootcamp-goStack-desafio-03/commits/master">
+  <a href="https://github.com/emersonefm/bootcamp-gostack-desafio-03/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/emersonefm/bootcamp-goStack-desafio-03.svg">
   </a>
 
-  <a href="https://github.com/emersonefm/bootcamp-goStack-desafio-01/issues">
+  <a href="https://github.com/emersonefm/bootcamp-gostack-desafio-03/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/emersonefm/bootcamp-goStack-desafio-03.svg">
   </a>
 
@@ -148,5 +148,4 @@ Este projeto está sob a licença do MIT . Veja a [LICENÇA](https://github.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [vcprettier]: https://prettier.io/
-# bootcamp-gostack-desafio-03
 
