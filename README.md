@@ -12,8 +12,6 @@
 
 <p>Esse desafio faz parte do Desafio Final, que é uma aplicação completa (Back-end, Front-end e Mobile) que é avaliada para emissão do Certificado do Bootcamp GoStack, por isso é fundamental que ele seja feito com muito empenho!</p>
 
-<blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
-
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/emersonefm/bootcamp-goStack-desafio-03.svg">
 
@@ -139,7 +137,7 @@ Criei um CRUD para que as encomendas sejam mantidas na aplicação.
 - A retirada de encomendas só pode ser feita entre 08:00 e 18:00 horas
 
 ## :memo: Licença
-Este projeto está sob a licença do MIT . Veja a [LICENÇA](https://github.com/mlg404/bootcamp-goStack-desafio-03/blob/master/LICENSE) para mais informações.
+Este projeto está sob a licença do MIT . Veja a [LICENÇA](https://github.com/emersonefm/bootcamp-goStack-desafio-03/blob/master/LICENSE) para mais informações.
 
 ---
 
